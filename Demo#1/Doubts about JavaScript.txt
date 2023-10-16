@@ -1,0 +1,36 @@
+Today's Agenda:
+---------------
+
+1. What are the differences between free YouTube videos and this paid classes?
+
+2. Is JavaScript mandatory to learn?
+
+3. How JavaScript will impact my performance in interview?
+
+4. What is the future of JavaScript?
+
+5. What can I do after learning JavaScript?
+
+6. Relation between Java and JavaScript...
+
+7. 0.1 + 0.2 != 0.3
+
+
+What is pre-requisite of JavaScript?
+HTML, CSS [will be covered parallel to this course. But up to the mark.]
+
+
+JavaScript Demo (Flipkart Price Tracker)
+----------------------------------------
+Washing Machine's Price related code:
+<div class="_30jeq3 _16Jk6d">₹6,890</div>
+
+Redmi 12 5G's rice related code:
+<div class="_30jeq3 _16Jk6d">₹13,999</div>
+
+Common Part is :
+	<div class="_30jeq3 _16Jk6d">PRICE</div>
+
+
+To access the price value:
+	document.getElementsByClassName("_30jeq3")[0].innerText.slice(1)
